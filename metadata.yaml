@@ -1,0 +1,28 @@
+_repo: George-Croghan_65941
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Public Library of Fort Wayne and Allen County
+    aliases:
+    - Emerine J. Hamilton Reading Room
+    - Fort Wayne (Ind.). Public Library of Fort Wayne and Allen County
+    - Allen County (Ind.). Public Library of Fort Wayne and Allen County
+    - Ft. Wayne Public Library
+    - Fort Wayne Public Library
+    gutenberg_agent_id: '53025'
+    url: http://www.gutenberg.org/2009/agents/53025
+    wikipedia: https://en.wikipedia.org/wiki/Allen_County_Public_Library
+description: ''
+gutenberg_issued: '2021-07-28'
+identifiers:
+  gutenberg: '65941'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Croghan, George, 1791-1849'
+- !lcc 'E300'
+- GITenberg
+title: George Croghan
+url: http://www.gutenberg.org/ebooks/65941
